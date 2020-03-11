@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ATM Consultoria</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_principal">Principal</string>
+    <string name="menu_servico">Serviço</string>
+    <string name="menu_cliente">Cliente</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sobre">Sobre</string>
+
+    <string name="nome_no_header">Mayke Alisson</string>
+    <string name="email_no_header">maykealison@gmail.com</string>
+
+
+    <string name="texto_sobre1">
+        Lorem ipsum proin eu fames donec netus aliquam suscipit
+        neque, duis platea eleifend aptent ipsum inceptos iaculis primis,
+        nostra nec porttitor mi in commodo donec litora. sit lobortis
+        himenaeos magna quisque eleifend conubia commodo quisque, ultrices
+        porta commodo sociosqu primis class fringilla elit, vulputate lacus
+        tristique per vivamus duis purus. ultrices gravida sapien scelerisque
+        suscipit fusce a aliquam nostra a aliquet, blandit mollis consectetur
+        faucibus ut gravida tellus integer pulvinar, etiam in hendrerit suspendisse
+        nostra condimentum viverra velit molestie. fames arcu adipiscing torquent
+        ultrices donec id rutrum libero semper, eget condimentum cursus volutpat
+    </string>
+
+    <string name="hello_blank_fragment">nada</string>
+
+
+</resources>
